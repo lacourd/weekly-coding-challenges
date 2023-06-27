@@ -1,1 +1,3 @@
-Week 1 challenge
+function triArea(base, height) {
+	return (base * height) / 2
+}
